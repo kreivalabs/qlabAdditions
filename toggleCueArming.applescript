@@ -9,7 +9,7 @@
 -- 2018-07-06
 -- initial build
 
--- set on a hotkey trigger to cycle between armed/not armed of seelected cue(s)
+-- set on a hotkey trigger to cycle between armed/not armed of selected cue(s)
 
 
 tell application id "com.figure53.qlab.4"
